@@ -1,0 +1,44 @@
+.box{
+    /* height: 500px; */
+    background-color:#46464680;
+}
+.p1{
+    padding-top: 7%;
+    padding-left: 3%;
+}
+.p11{
+    padding-top: 4%;
+    padding-left: 3%;
+}
+.p22{
+    padding-top: 4%;
+    padding-right: 3%;
+}
+.p2{
+    padding-top: 7%;
+    padding-right: 3%;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    text-decoration-line: underline;
+}
+.reload{
+    color: rgba(255, 255, 255, 0.61);
+    float:left;
+}
+.cmp{
+    color:white;
+    font-size:14px;
+}
+.cmp:hover{
+    background-color: rgba(255, 255, 255, 0.322);
+    /* padding-left: 7px;
+    padding-right: 7px; */
+    padding: 7px;
+}
+.toggle{
+    transition: 0.6s;
+}
